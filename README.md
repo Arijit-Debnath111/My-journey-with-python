@@ -1,2 +1,2 @@
-# My-journey-with-python
+# My-journey-with-python/DSAlgo
 Python programming 
